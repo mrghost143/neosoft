@@ -1,0 +1,14 @@
+{
+  "name": "neosoft-task",
+  "version": "1.0.0",
+  "description": "xd file to htmls css -task",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit",
+  "license": "ISC"
+
+}
+
